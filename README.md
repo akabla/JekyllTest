@@ -1,8 +1,8 @@
 # just-the-docs-template
 
-Modified by AJK.
+Re-modified by AJK.
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This is a not so *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
